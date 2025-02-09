@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 mypasswordsfile
 *.pdf
 *.c
@@ -6,3 +7,9 @@ mypasswordsfile
 ./public_html/IWD2/DL/testin.sdf
 ./public_html/IWD2/DL/Asinex.sdf
 ./public_html/IWD2/DL/Nanosyn.sdf
+||||||| 577b12d
+=======
+./public_html/IWD2/DL/Asinex.sdf
+./public_html/IWD2/DL/Nanosyn.sdf
+./public_html/IWD2/DL/testin.sdf
+>>>>>>> tmp
