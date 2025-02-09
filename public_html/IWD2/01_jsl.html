@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<title>01_jsl.html</title>
+	</head>
+	<body>
+
+		<h1>JavaScript examples</h1>
+		<p id="p1"> THis is para 1 </p>
+		<p id="p2"> This is para 2 </p>
+		<p id="p3"> This is para 3 </p>
+
+	<script type="text/javascript">
+		document.write("<p>" + "Welcome to the JavaScript World" + "</p>") ;
+		document.getElementById("p1").innerHTML="Replaced P1" ;
+		function displayMessage()
+{
+	document.getElementById("p2").innerHTML="Replaced P2";
+}
+
+	</script>
+	<button type = "button" onclick="displayMessage()">Show a message </button>
+	</body>
+</html>
