@@ -1,0 +1,7 @@
+[core]
+	editor = vi
+	autocrlf = input
+[alias]
+	st = status
+	lo = log --oneline
+	adog = log --all --decorate --oneline --graph

@@ -1,0 +1,8 @@
+mypasswordsfile
+*.pdf
+*.c
+*.log
+**/fq.gz
+./public_html/IWD2/DL/testin.sdf
+./public_html/IWD2/DL/Asinex.sdf
+./public_html/IWD2/DL/Nanosyn.sdf
